@@ -20,7 +20,7 @@ I apply computational physics and machine learning techniques to tackle some of 
 - 💬 Ask me about anything, I am happy to collaborate;
 - 📝 I regularly publish on specialized scientific journals, check out my latest publications @[google scholar](https://scholar.google.de/citations?user=r2tLzDMAAAAJ&hl=en);
 - 📫 How to reach me: francesco.parisio@protonmail.com;
-- 📝 [Resume](https://github.com/fparisio/fparisio/MyCV/FrancescoParisioCV.pdf).
+- 📝 [Resume](https://github.com/fparisio/fparisio/blob/main/MyCV/FrancescoParisioCV.pdf).
 
 </br>
 

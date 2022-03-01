@@ -11,7 +11,7 @@ I am a Data Scientist and Civil Engineer, doing my best to help solve problems a
 
 I apply computational physics and machine learning techniques to tackle some of the most pressing questions about geothermal energy, carbon capture and storage and induced seismicity. I am addicted to learning and passionate about science, computing, coding, machine learning and artificial intelligence.
 
-<img align="center" alt="GIF" src="https://github.com/fparisio/fparisio/GIF_Fracture" width="600" height="100" />
+<img align="center" alt="GIF" src="https://github.com/fparisio/fparisio/GIF_Fracture-opt" width="600" height="100" />
 
 **Personal stuff:**
 

@@ -11,32 +11,6 @@
 - How to reach me: francesco.parisio@protonmail.com;
 - Full list of publications: [scholar.google](https://scholar.google.de/citations?user=r2tLzDMAAAAJ&hl=en);
 
-
-### Projects:
-
-- [Time series forecasting of CO2 emissions](https://github.com/fparisio/DataScience/tree/main/TimeSeriesCO2ForecastNatGas)
-- [Recommendation system for Amazon products](https://github.com/fparisio/DataScience/tree/main/RecommendationSystem)
-- [Convolutional neural networks to recognize digits](https://github.com/fparisio/DataScience/tree/main/DigitRecognition)
-
-### Tools:
-
-- [Python](https://www.python.org/)
-- [Scikit-Learn](https://scikit-learn.org/)
-- [MySQL](https://www.mysql.com/)
-- [Statsmodels](https://www.statsmodels.org/stable/index.html)
-- [Flaml](https://microsoft.github.io/FLAML/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Keras](https://keras.io/)
-- [PyTorch](https://pytorch.org/)
-- [C++](https://isocpp.org/)
-- [Git](https://git-scm.com/)
-- [Github](https://github.com/)
-- [Bash](https://www.gnu.org/software/bash/)
-- [MOOSE](https://mooseframework.inl.gov/
-)
-- [OpenGeoSys](https://opengeosys.org/
-)
-- [Code_Aster](https://www.code-aster.org/spip.php?rubrique2)
 ### GitHub Stats:
 
 <p>

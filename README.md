@@ -4,10 +4,3 @@
 [![GitHub Badge](https://img.shields.io/badge/Github-grey)](https://github.com/fparisio)
 [![Google Scholar Badge](https://img.shields.io/badge/GoogleScholar-lightyellow)](https://scholar.google.de/citations?user=r2tLzDMAAAAJ&hl=en)
 ![](https://visitor-badge.glitch.me/badge?page_id=fparisio.fparisio)
-
-### GitHub Stats:
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fparisio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fparisio&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>

@@ -6,11 +6,6 @@
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-lightgreen)](https://www.researchgate.net/profile/Francesco-Parisio?ev=hdr_xprf)
 ![](https://visitor-badge.glitch.me/badge?page_id=fparisio.fparisio)
 
-### Personal info:
-
-- How to reach me: francesco.parisio@protonmail.com;
-- Full list of publications: [scholar.google](https://scholar.google.de/citations?user=r2tLzDMAAAAJ&hl=en);
-
 ### GitHub Stats:
 
 <p>
